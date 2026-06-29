@@ -280,12 +280,4 @@ MIT License
 3. 提交更改 (`git commit -m 'Add some feature'`)
 4. 推送到分支 (`git push origin feature/your-feature`)
 5. 创建 Pull Request
-
----
-
-## 相关资源
-
-- [MiMoCode](https://github.com/anthropics/mimocode) - AI 编程助手
-- [MCP Protocol](https://modelcontextprotocol.io) - Model Context Protocol
-- [ImportYeti](https://www.importyeti.com) - 美国海关提单数据
 - [Trade Map](https://www.trademap.org) - 全球贸易统计
